@@ -28,6 +28,7 @@ CREATE TABLE users (
     is_active BOOLEAN DEFAULT TRUE,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+---
 
 ## Follow the steps below to set up and run the project on your local machine:
 
