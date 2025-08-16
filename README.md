@@ -35,7 +35,7 @@ CREATE TABLE users (
 
 If you haven’t already, clone the repo from GitHub:
 
-git clone https://github.com/YOUR_USERNAME/Complaint-Management-System.git
+git clone https://github.com/Revanth200558/Complaint-Management-System.git
 
 
 Then navigate into the project folder:
